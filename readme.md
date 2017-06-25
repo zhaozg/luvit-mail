@@ -6,6 +6,7 @@ To obtain the _mail_</tt> module, use luvit to run:
 ```lua
 local mail = require("mail")
 ```
+
 ##SMTP
 
 ###send
